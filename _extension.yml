@@ -1,0 +1,8 @@
+title: video2
+author: RStudio, PBC, Brian Ballsun-Stanton
+version: 1.0.0
+contributes:
+  shortcodes:
+    - video2.lua
+  filters:
+    - video-filter.lua
